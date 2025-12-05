@@ -1,9 +1,7 @@
 nglview==3.0.8
 numpy
 pandas
-Pillow
-pytest
-Requests
+Request
 scikit_learn
 scipy
 torch
