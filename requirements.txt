@@ -1,8 +1,8 @@
-nglview==3.0.8
+nglview
 numpy
 pandas
 scikit_learn
 scipy
 torch
 tqdm
-transformers==4.24.0
+transformers
