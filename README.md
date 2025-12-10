@@ -6,6 +6,7 @@
 | [**Conditioners**](#conditioners)
 | [**License**](#license)
 
+**REQUIREMENTS FILE IS EDITED TO MAKE IT LAUNCH IN COLAB**
 Chroma is a generative model for designing proteins **programmatically**.
 
 Protein space is complex and hard to navigate. With Chroma, protein design problems are represented in terms of [composable building blocks](#conditioners) from which diverse, [all-atom protein structures can be automatically generated](#sampling). As a joint model of structure and sequence, Chroma can also be used for common protein modeling tasks such as [generating sequences given backbones](#design), packing side-chains, and scoring designs. 
